@@ -1,0 +1,19 @@
+# logger配置
+log.dir: /tmp
+log.max-logger-size: 100
+log.max-logger-backups: 3
+log.days-to-keep: 1
+
+# databases数据库配置
+mysqldb.host: 127.0.0.1  # 数据库所在主机名
+mysqldb.port: 3306       # 数据库服务端口
+mysqldb.user: root       # 用户名
+mysqldb.password: root   # 密码
+mysqldb.dbname: mydb     # 库名
+
+# api开放端口
+api.port: 8879
+api.host:
+
+
+
