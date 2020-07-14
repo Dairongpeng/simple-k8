@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7d93cb3-5245-49b7-a336-179d7c1d9a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/simple-k8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Godeps/Godeps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Godeps/Readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_doc/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api-schema.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/impl/kube.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/impl/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/kube-apis.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/user-api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/failure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/run.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/api_doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/exceptions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/jsonpath.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/macros.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/pagination.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/result.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/api-base/schema.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/db-helper/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/db-helper/db-types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/utils/k8sHelper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-common/utils/reflection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/ddl.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/kube.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/sidecar.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-k8-config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/rest.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version.go" afterDir="false" />
-    </list>
+    <list default="true" id="d7d93cb3-5245-49b7-a336-179d7c1d9a9a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,44 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/common.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#15#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go-common/api-base/schema.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-              <folding>
-                <element signature="e#17#140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/go-common/api-base/middleware.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-              <folding>
-                <element signature="e#17#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -153,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,13 +84,18 @@
             <path>
               <item name="simple-k8" type="b2602c69:ProjectViewProjectNode" />
               <item name="simple-k8" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="go-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simple-k8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simple-k8" type="462c0819:PsiDirectoryNode" />
+              <item name="go-common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +151,7 @@
   <component name="ToolWindowManager">
     <frame x="-525" y="-1417" width="2560" height="1417" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16600476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16719618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +164,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22503841" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31950846" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -265,16 +191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go-common/utils/k8sHelper.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#15#122#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,12 +440,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/common.go">
+    <entry file="file://$PROJECT_DIR$/go-common/utils/k8sHelper.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go-common/api-base/middleware.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
           <folding>
-            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#17#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -544,12 +467,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go-common/api-base/middleware.go">
+    <entry file="file://$PROJECT_DIR$/model/common.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <element signature="e#17#161#0" expanded="true" />
+            <element signature="e#15#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
